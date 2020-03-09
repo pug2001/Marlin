@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\pug20\\OneDrive\\Desktop\\arduino-1.8.9\\tools\\**",
+                "C:\\Users\\pug20\\OneDrive\\Desktop\\arduino-1.8.9\\hardware\\arduino\\avr\\**",
+                "C:\\Development\\arduino-1.8.10\\hardware\\arduino\\avr\\**",
+                "C:\\Development\\arduino-1.8.10\\tools\\**",
+                "C:\\Development\\arduino-1.8.7\\hardware\\arduino\\avr\\**",
+                "C:\\Development\\arduino-1.8.7\\tools\\**"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\pug20\\OneDrive\\Desktop\\arduino-1.8.9\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Development\\arduino-1.8.10\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h",
+                "C:\\Development\\arduino-1.8.7\\hardware\\arduino\\avr\\cores\\arduino\\Arduino.h"
+            ],
+            "intelliSenseMode": "msvc-x64"
+        }
+    ],
+    "version": 4
+}
